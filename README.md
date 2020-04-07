@@ -1,6 +1,6 @@
 # bloc_example
 
-A new Flutter project.
+A Flutter project using bloc provider with 3rd libraries.
 
 ## Getting Started
 
